@@ -120,8 +120,14 @@ The project includes:
 - Gender vs Loan Status
 - Education vs Loan Status
 - Credit History vs Loan Status
+- <img width="1136" height="988" alt="image" src="https://github.com/user-attachments/assets/458cf5d9-6b85-4fcb-950f-5f9c80eff81f" />
+
 - Decision Tree Visualization
+- <img width="2990" height="990" alt="image" src="https://github.com/user-attachments/assets/d9db39c2-2cd1-4401-8183-2985388a22ea" />
+
 - Feature Importance Chart
+- <img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/1f7bb8fc-69da-4cc2-99f0-3723f4d2813e" />
+
 
 ## 🚀 How to Run This Project
 
